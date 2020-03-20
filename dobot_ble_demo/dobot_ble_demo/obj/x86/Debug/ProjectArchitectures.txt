@@ -1,0 +1,1 @@
+C:\Users\amri_\source\repos\test_ble\dobot_ble_demo\DobotBLEDemo.csproj;x86

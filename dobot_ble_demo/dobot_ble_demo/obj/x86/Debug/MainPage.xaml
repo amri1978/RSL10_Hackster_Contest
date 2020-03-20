@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="DobotBLEDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DobotBLEDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="button1" Content="Connect" Margin="436,381,0,0" VerticalAlignment="Top"                     />
+        <TextBlock x:ConnectionId='3' x:Name="textBlock" HorizontalAlignment="Left" Margin="311,427,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" Width="689"/>
+
+    </Grid>
+</Page>
+
