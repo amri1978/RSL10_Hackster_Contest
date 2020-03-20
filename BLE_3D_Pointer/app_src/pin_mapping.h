@@ -1,0 +1,14 @@
+#ifndef _ATMO_PINMAPPING_H_
+#define _ATMO_PINMAPPING_H_
+
+#define RSL10_BTN0 15
+#define RSL10_BTN1 12
+#define RSL10_GIO 3
+#define RSL10_PB1 RSL10_BTN0
+#define RSL10_PB2 RSL10_BTN1
+
+#define RSL10_LED_BLUE 0
+#define RSL10_LED_GREEN 1
+#define RSL10_LED_RED 2
+
+#endif
