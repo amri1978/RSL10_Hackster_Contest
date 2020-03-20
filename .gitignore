@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+dobot_ble_demo/dobot_ble_demo/bin
+dobot_ble_demo/dobot_ble_demo/obj
 
 # Precompiled Headers
 *.gch
@@ -14,7 +16,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
